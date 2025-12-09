@@ -36,11 +36,11 @@ The **Simple Expense Tracker** is designed for fast, everyday financial logging.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="ExpenseTracker.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
-  <img src="AddNewExpense.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
-  <img src="EditExpense.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
-  <img src="StaticPage.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
-  <img src="SearchExpense.jpeg" width="180" style="border-radius:12px;" />
+  <img src="assets/ExpenseTracker.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
+  <img src="assets/AddNewExpense.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
+  <img src="assets/EditExpense.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
+  <img src="assets/StaticPage.jpeg" width="180" style="border-radius:12px; margin-right:10px;" />
+  <img src="assets/SearchExpense.jpeg" width="180" style="border-radius:12px;" />
 </p>
 
 ---
