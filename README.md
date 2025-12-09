@@ -28,7 +28,7 @@ The **Simple Expense Tracker** is designed for fast, everyday financial logging.
 
 - **Modern UI/UX** → Minimalist iOS-inspired design with smooth modal transitions  
 - **Global State Management** → Context API ensures instant updates everywhere  
-- **Intuitive Interactions** → Tap to edit, swipe to delete, category tagging  
+- **Intuitive Interactions** → Tap to edit, hold to delete, category tagging  
 - **Modular Architecture** → Clean, scalable `src/` structure  
 
 ---
@@ -50,7 +50,7 @@ The **Simple Expense Tracker** is designed for fast, everyday financial logging.
 - ✅ **Full CRUD Functionality** (Create, Read, Update, Delete)
 - 📲 **Full-screen modal entry** for adding expenses
 - ✏️ **Tap to Edit** any expense
-- 🗑️ **Swipe-to-Delete** on list items (gesture handler)
+- 🗑️ **Hold-to-Delete** on list items (gesture handler)
 - 🏷️ **Category tagging** with colors
 - 📊 **Statistics page** showing per-category totals
 - 🔄 **Real-time updates** powered by Context API
